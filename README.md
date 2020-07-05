@@ -9,3 +9,5 @@ This is the code notebooks I wrote while studying the [Bioinformatics Specializa
 * Week 2 (https://stepik.org/course/605/syllabus)
 
 * Week 3 (https://stepik.org/course/606/syllabus)
+
+* Week 4 (https://stepik.org/course/607/syllabus)
